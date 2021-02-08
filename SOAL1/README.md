@@ -7,10 +7,10 @@
   * let : merupakan variabel yang direkomendasikan karena sejak ES6 Js diperkenalkan, let dapat menutupi kekurangan yang dimiliki oleh var.
  
 ##### Tipe data = merupakan jenis data yang kita simpan didalam sebuah variabel. Didalam javascript memiliki beberapa tipe data yaitu :
-  1.String    : teks
-  2.Int       : bilangan bulat
-  3.Boolean   : true and false 
-  4.Array     : tipe data yang mampu menyimpan banyak data yang terdiri dari beberapa index didalam sebuah variabel
-  5.Object    : tipe daya yang berisi kumpulan nilai dan nama yang dapat menampung banyak data
+  * String    : teks
+  * Int       : bilangan bulat
+  * Boolean   : true and false 
+  * Array     : tipe data yang mampu menyimpan banyak data yang terdiri dari beberapa index didalam sebuah variabel
+  * Object    : tipe daya yang berisi kumpulan nilai dan nama yang dapat menampung banyak data
 
       
