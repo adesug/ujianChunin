@@ -1,12 +1,12 @@
 ### Soal ke-1
 1.apakah yang dimaksud dengan Variabel dan Tipe Data didalam Javascript ? Jelaskan jenis-jenis nya !
-##### Jawab
-* Variabel = merupakan nama  yang digunakan/wadah untuk menyimpan suatu nilai sementara, dan nilai nya dapat kita ubah. Didalam Javascript memiliki 3 variabel yaitu var,let dan const. 
-  1. const : untuk penggunaan variabel yang nilainya pasti dan tidak dapat diupdate.
-  2. var : merupakan variabel yang tidak direkomendasikan untuk dipakai karena ada beberapa kendala yaitu : reassign,hoisting,scope,global.
-  3. let : merupakan variabel yang direkomendasikan karena sejak ES6 Js diperkenalkan, let dapat menutupi kekurangan yang dimiliki oleh var.
+#### Jawab
+##### Variabel = merupakan nama  yang digunakan/wadah untuk menyimpan suatu nilai sementara, dan nilai nya dapat kita ubah. Didalam Javascript memiliki 3 variabel yaitu var,let dan const. 
+  * const : untuk penggunaan variabel yang nilainya pasti dan tidak dapat diupdate.
+  * var : merupakan variabel yang tidak direkomendasikan untuk dipakai karena ada beberapa kendala yaitu : reassign,hoisting,scope,global.
+  * let : merupakan variabel yang direkomendasikan karena sejak ES6 Js diperkenalkan, let dapat menutupi kekurangan yang dimiliki oleh var.
  
-* Tipe data = merupakan jenis data yang kita simpan didalam sebuah variabel. Didalam javascript memiliki beberapa tipe data yaitu :
+##### Tipe data = merupakan jenis data yang kita simpan didalam sebuah variabel. Didalam javascript memiliki beberapa tipe data yaitu :
   1.String    : teks
   2.Int       : bilangan bulat
   3.Boolean   : true and false 
