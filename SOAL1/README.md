@@ -1,4 +1,4 @@
-### Soal ke-1
+### Soal A
  **Apakah yang dimaksud dengan Variabel dan Tipe Data didalam Javascript ? Jelaskan jenis-jenis nya !**
 #### Jawab
 ##### Variabel = merupakan nama  yang digunakan/wadah untuk menyimpan suatu nilai sementara, dan nilai nya dapat kita ubah. Didalam Javascript memiliki 3 variabel yaitu var,let dan const. 
@@ -12,5 +12,14 @@
   * Boolean   : true and false 
   * Array     : tipe data yang mampu menyimpan banyak data yang terdiri dari beberapa index didalam sebuah variabel
   * Object    : tipe daya yang berisi kumpulan nilai dan nama yang dapat menampung banyak data
+
+### Soal B
+ **Apakah perbedaan antara if-else dengan switch-case ? Berikan contohnya dalam bentuk code sederhana**
+
+ #### Jawab
+ ##### If-else : merupakan pengkondisian lebih dari satu nilai dimana 'operasinya dapat menggunakan <,>, <= dan =>. dan dapat bersarang .
+  * bentuk [code](https://playcode.io/735076/)
+ ##### Switch-Case : merupakan pengkondisian yang hanya 1 kondisi  dengan nilai bervariasi dinyatakan dengan bilangan bulat / string dan harus menggunakan break untuk mengakhiri suatu statement.
+  * bentuk [code](https://playcode.io/735095/)
 
       
