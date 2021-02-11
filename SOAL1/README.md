@@ -22,4 +22,21 @@
  * Switch-Case : merupakan pengkondisian yang hanya 1 kondisi  dengan nilai bervariasi dinyatakan dengan bilangan bulat / string dan harus menggunakan break untuk mengakhiri suatu statement.
     * bentuk [code](https://playcode.io/735095/)
 
+### Soal C
+ **Apakah yang dimaksud dengan function dan method dalam javascript ? jelaskan perbedaannya! dan berikan dalam bentuk code sederhana**
+
+### Jawab 
+* function merupakan sub program yang dapat dipanggil dibagian lain program, ada beberapa cara dalam membuat fungsi / struktur dasar pembentuk javascript, untuk menggunakannya kita harus membuat terlebih dahulu function tersebut, lalu memanggilnya
+    * bentuk [code](https://playcode.io/735474/)
+* method merupakan sebuah fungsi yang disediakan oleh javascript untuk memudahkan kita dalam mengolah suatu nilai.
+    * bentuk [code](https://playcode.io/735568/)
+
+### Soal D
+ **apa yang kamu ketahui tentang synchronous dan assycounus**
+
+ ###Jawab
+
+ * Synchronous , setiap perintah dieksekusi satu persatu sesuai urutan code yang diketik.
+ * Assyncronous , hasil eksekusi atau output tidak selalu berdasarkan urutan kode, tetapi berdasarkan waktu proses. Eksekusi dengan asynchronous tidak akan membloking atau menunggu suatu perintah sampai selesai.
+
       
