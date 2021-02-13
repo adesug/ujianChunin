@@ -41,23 +41,23 @@
 
 ### Soal G
 **Buat dan jelaskanlah 10 method bawaan JavaScript (Built-in Functions) beserta contoh penggunaannya**
-    * concat : Penyambung array
+  * concat : Penyambung array
       * Bentuk [code](https://playcode.io/737122/) 
-    * charAt : mengetahui karakter pada urutan ke..
+  * charAt : mengetahui karakter pada urutan ke..
       * Bentuk [code](https://playcode.io/737151/)
-    * toLowerCase : menjadikan huruf kecil
+  * toLowerCase : menjadikan huruf kecil
       * Bentuk [code](https://playcode.io/737152/)
-    * toUpperCase : menjadikan huruf besar
+  * toUpperCase : menjadikan huruf besar
       * Bentuk [code](https://playcode.io/737153/)
-    * push :menambah dibelakang
+  * push :menambah dibelakang
       * Bentuk [code](https://playcode.io/737155/)
-    * pop : menghapus dibelakang
+  * pop : menghapus dibelakang
       * Bentuk [code](https://playcode.io/737154/)
-    * shift : menghapus diawal
+  * shift : menghapus diawal
       * Bentuk [code](https://playcode.io/737156/)
-    * unshift : menambah diawal
+  * unshift : menambah diawal
       * Bentuk [code](https://playcode.io/737157/)
-    * prompt : mengambil sebuah inputan dari user
+  * prompt : mengambil sebuah inputan dari user
       * Bentuk [code](https://playcode.io/737159/)
-    * alert : pesan dialog
+  * alert : pesan dialog
       * Bentuk [code](https://playcode.io/737158/)
