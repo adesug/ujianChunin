@@ -1,17 +1,33 @@
 ### Soal A
 **Diberikan sebuah variabel yang berisikan bilangan integer dengan ketentuan angka 0 (nol) dalam variabel tersebut merupakan pemisah antara satu bilangan dengan bilangan lainnya. Bilangan-bilangan tersebut akan dipisah dan diurutkan berdasarkan angka di bilangan-bilangan itu sendiri. Setelah itu, bilangan hasil pengurutan akan digabung kembali dengan tanpa pemisah dengan output berupa bilangan integer. Buatlah method/function yang menerima parameter hanya deret angka dan menghasilkan output seperti keterangan di atas. contoh (56431046145403146) menjadi (134561444561346)**
 
+* Run [code](https://playcode.io/738125/)
+
+
+
 ### Soal B
 **Buatlah sebuah function yang dapat mengembalikan string baru yang telah diurutkan dari a - z akan tetapi tidak diperbolehkan ada huruf yang sama. Contoh : (pluginsangatkerensekali) menjadi (aegiklnprsu)**
+
+* Run [code](https://playcode.io/738117/)
+  * penjelasan : terdapat function sortAlphabet yang memiliki parameter string lalu pecah string menggunakan spreadoperator dengan menambahkan methd sort untuk mengurutkan elemen string yang kemudian digambungkan kembali lalu dipecah dengan method split dan filter string untuk mengurutkan secara abjad.
 
 ### Soal C
 **buatlah fungsi yang menampilkan angka, berdasarkan urutan angka yang sudah di tentukan. Yang menerima 3 parameter: n = urutan angka yang ingin dicari, a = angka pertama, b = selisih tiap angka**
 
+* Run [code](https://playcode.io/737168/)
+  * penjelasan : terdapat fungsi angka yang memiliki 3 parameter a=nilaiawal , b= nilaiakhir, n=dataarray lalu masuk ke pengkondisian if jika nilai awal kurang dari nilai akhir dan data array lebih dari 5 maka melakukan pengurutan lalu dipotong dengan method slice.
+
 ### Soal D
 **Diberikan sebuah kalimat, ubah urutan kata-kata di dalam kalimat menjadi terbalik. Misalnya kalimat “Saya cinta PLUGIN”, output “PLUGIN cinta Saya” tanpa menggunakan built-in function / method bawaan dari javascript**
 
+* Run [code](https://playcode.io/738077/)
+
 ### Soal E
 **Anton sedang bersiap untuk mengikuti tes IQ. Tes yang paling sering keluar adalah mencari angka mana yang berbeda dari yang lain. Anton mengamati bahwa pasti ada satu angka yang berbeda dari yang lain dalam hal pemerataan. Buatlah sebuah program yang dapat membantu Anton untuk mengetahui di posisi manakah angka yang berbeda. Catatan Posisi angka dimulai dari satu (1) bukan nol (0)**
+
+* Run [code](https://playcode.io/738121/)
+  * penjelasan : pada kode diatas terdapat fungsi angka yang memiliki variabel min dan max disitu untuk mencari data diantara nilai minimal dan maksimal yang akan dimasukkan.lalu cetak dengan menambahkan method math.floor untuk mengembalikan bilangan bulat terbesar kurang dari atau sama dengan angka yang diberikan dan menambahkan method random untuk mengacak angka lalu kalikan dengan nilai min dan max.sehingga menghasilkan angka berbeda.
+
 
 ### Soal F
 **Jelaskan apa yang kalian tahu mengenai Database, berikan contoh 5 query yang kalian tau. Jelaskan apa yang di maksud dengan Framwork, lalu apa perbedannya Framework dengan Library, dan berikan 7 contoh Framework Javascript yang kalian tahu. Jelaskan perbedaan antara FrontEnd dan Backend menurut pendapat kalian.**
@@ -37,6 +53,9 @@
    * penjelasan : Bagian kode yang dapat digunakan kembali yang menawarkan fungsionalitas tertentu. 
      * contoh library js : Jquery, Sweetalert, Dragula
  * Perbedaan Framework dan Library terletak pada bagian fungsionalitasnya yaitu framework digunakan sebagai dasar dan library sebagai isi dari dari kerangka tersebut 
+
+ * front end : tampilan / ui 
+ * back end : berhubungan dengan data /server side
   
 
 ### Soal G
