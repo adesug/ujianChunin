@@ -15,15 +15,5 @@ let data = {
 console.log(`data =\n`, data);
 ///////////////////////-----------------
 
-let {
-    street: Street,
-    city: City
-} = {...data.address }
-
-let new_data = Object.assign({}, {
-    Street,
-    City
-
-});
-
-console.log(`new_data =\n`, new_data);
+let { street, city } = data.address
+console.log(`street : ${street}, city : ${city}`);
